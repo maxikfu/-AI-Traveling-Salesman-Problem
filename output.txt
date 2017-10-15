@@ -1,0 +1,25 @@
+SOPH - Simulated Annealing algorithm for cost function  c1  Number of cities =  10
+
+Iteration Number= 0
+Initial Cost  831
+End Cost= 426
+Number of swaps= 115124
+Shortest path found  [6, 7, 8, 9, 0, 2, 1, 3, 4, 5]
+Running time= 2.0182101726531982
+
+Iteration Number= 1
+Initial Cost  435
+End Cost= 426
+Number of swaps= 115124
+Shortest path found  [2, 9, 8, 7, 6, 5, 4, 3, 0, 1]
+Running time= 2.0207760334014893
+
+Iteration Number= 2
+Initial Cost  1221
+End Cost= 426
+Number of swaps= 115124
+Shortest path found  [1, 0, 9, 8, 7, 6, 5, 4, 3, 2]
+Running time= 1.9880316257476807
+
+
+
