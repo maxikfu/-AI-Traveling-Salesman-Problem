@@ -1,0 +1,2 @@
+# COSC-6368-AI-UH
+Projects for COSC 6368
